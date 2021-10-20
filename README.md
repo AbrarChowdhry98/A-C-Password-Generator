@@ -6,8 +6,7 @@ Abrar Chowdhry
 This is a password generator webpage, it produces a secured password for the user. The user will answer some valid secure password questions before being presented with the secured password. 
 
 # Demo Preview 
-
-
+https://abrarchowdhry98.github.io/A-C-Password-Generator/
 
 # Abrar Chowdhry GitHub Repository
 https://github.com/AbrarChowdhry98/Password-Generator

@@ -10,10 +10,10 @@ This is a password generator webpage, it produces a secured password for the use
 
 
 # Abrar Chowdhry GitHub Repository
-
+https://github.com/AbrarChowdhry98/Password-Generator
 
 # Screenshot for password generator
-![Screenshot-Password-generator]()
+![Screenshot-Password-generator](https://github.com/AbrarChowdhry98/Password-Generator/blob/main/Assets/Images/Deployed%20Password%20Generator.png)
 
 # Table of Contents
 
